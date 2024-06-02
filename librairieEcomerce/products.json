@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "name": "1984",
+        "author": "George Orwell",
+        "price": 12.99,
+        "image": "image/1984.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Vingt mille lieux sous les mers",
+        "price": 9.99,
+        "image": "image/voyageCentre.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Les riviéres pourpres",
+        "price": 290,
+        "image": "image/rivieres.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Hexagone",
+        "price": 200,
+        "image": "image/hexagone.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Un long dimanche de filancailles",
+        "price": 14.99,
+        "image": "image/dimanche.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Runing man",
+        "price": 200,
+        "image": "image/runing.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Dracula",
+        "price": 200,
+        "image": "image/dracula.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Les particules élémentaires",
+        "price": 200,
+        "image": "image/particules.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Le roi des tropiques",
+        "price": 200,
+        "image": "image/tropiques.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Dreamcatcher",
+        "price": 250,
+        "image": "image/dream.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Da vinci code",
+        "price": 290,
+        "image": "image/davinci.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Le tour du monde en 80 jours",
+        "price": 200,
+        "image": "image/80jours.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Hannibal",
+        "price": 300,
+        "image": "image/hannibal.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Le seigneur des anneaux",
+        "price": 200,
+        "image": "image/seigneurs.jpg"
+    },
+    {
+        "id": 15,
+        "name": "La mort n'est pas une fin",
+        "price": 200,
+        "image": "image/mort.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Le dernier kabaliste de lisbonne",
+        "price": 200,
+        "image": "image/kabalist.jpg"
+    }
+]
